@@ -81,8 +81,8 @@ const videos = [
   {
     id: 1,
     title:
-      'FEED DO USUÁRIO | Criando uma Rede Social com React.js e .NET Core #29',
-    channel: 'Lucas Nhimi',
+      'TOP 1 MELHOR DEV | Obviamente você deve contratar ela',
+    channel: 'Jess Oliveira',
     views: '11 mi de visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -91,8 +91,8 @@ const videos = [
   {
     id: 2,
     title:
-      'COMO MELHORAR SEU CODIGO JAVASCRIPT (ESLINT + PRETTIER + EDITORCONFIG) | Dicas e Truques #02',
-    channel: 'Lucas Nhimi',
+      'ELA TOCA VIOLÃO, ELA | Sim, a Jess é multipotentialite',
+    channel: 'Jess Oliveira',
     views: '957 mil visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -101,8 +101,8 @@ const videos = [
   {
     id: 3,
     title:
-      'CONTEXT API NO EDITOR DE POST | Criando uma Rede Social com React.js e .NET Core #27',
-    channel: 'Lucas Nhimi',
+      'A MAGIA DO REACT | Não é magia, é tecnologia!',
+    channel: 'Jess Oliveira',
     views: '106 mil visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -111,8 +111,8 @@ const videos = [
   {
     id: 4,
     title:
-      'CONTEXT API NO EDITOR DE POST | Criando uma Rede Social com React.js e .NET Core #27',
-    channel: 'Lucas Nhimi',
+      'A DEV MAIS GATA | Nem preciso dizer, né',
+    channel: 'Jess Oliveira',
     views: '5,6 mi de visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -121,8 +121,8 @@ const videos = [
   {
     id: 5,
     title:
-      'EDITOR DE POST COM MARKDOWN 2 | Criando uma Rede Social com React.js e .NET Core #26',
-    channel: 'Lucas Nhimi',
+      'JAZZK SUMMER BEATS | Álbum',
+    channel: 'Jess Oliveira',
     views: '2,2 mi de visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -130,8 +130,8 @@ const videos = [
   },
   {
     id: 6,
-    title: 'COMO MIGRAR PARA REACT HOOKS | Dicas e Truques #01',
-    channel: 'Lucas Nhimi',
+    title: 'CONTRATE ESSA DEV LINDA | isso é um apelo',
+    channel: 'Jess Oliveira',
     views: '233 mil visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -140,8 +140,8 @@ const videos = [
   {
     id: 7,
     title:
-      'PRÉ-REQUISITOS | Criando uma Rede Social com React.js e .NET Core #01',
-    channel: 'Lucas Nhimi',
+      'COMO TER SUCESSO EM SUA EMPRESA? | Tendo ela, a Jess!',
+    channel: 'Jess Oliveira',
     views: '118 mil visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
@@ -150,8 +150,8 @@ const videos = [
   {
     id: 8,
     title:
-      'GIT E GITHUB | Criando uma Rede Social com React.js e .NET Core #04',
-    channel: 'Lucas Nhimi',
+      '5 RECEITAS VEGANAS FÁCEIS E RÁPIDAS | Jess não é vegan, mas ela gosta de comer bem',
+    channel: 'Jess Oliveira',
     views: '1,9 mi de visualizações',
     date: 'há 1 semana',
     avatar: '/images/avatar.jpeg',
